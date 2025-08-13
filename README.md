@@ -9,7 +9,7 @@
 
 ## 📝 个人博客
 欢迎访问我的技术博客，记录学习心得与项目实践：  
-👉 [博客链接：[https://zyn1994.blog.csdn.net/](https://zyn1994.blog.csdn.net/)
+👉 博客链接：[https://zyn1994.blog.csdn.net/](https://zyn1994.blog.csdn.net/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daydayup-zyn)
 
