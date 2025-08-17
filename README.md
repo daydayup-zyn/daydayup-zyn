@@ -14,3 +14,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daydayup-zyn)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydayup-zyn)
+
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=dayup-zyn" /> </div>
