@@ -15,4 +15,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydayup-zyn)
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=dayup-zyn" /> </div>
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daydayup-zyn)
+
